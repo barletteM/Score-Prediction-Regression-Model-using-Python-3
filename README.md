@@ -1,2 +1,2 @@
 # Score-Prediction-Regression-Model-using-Python-3
-This is a simple Regression Model that predicts the score of a student based on the number of hours of study
+Python 3 has been chosen to make the prediction, making use of its built in libraries and analytic tools. The data is sorced remotely from an internet site. 
